@@ -83,18 +83,3 @@
 + 改變直身機聚光燈強度
 ![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/改變直身機聚光燈強度.png)
 
-+ 直身機上的聚光燈
-![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
-
-+ 直身機上的聚光燈
-![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
-
-+ 直身機上的聚光燈
-![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
-
-+ 直身機上的聚光燈
-![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
-
-+ 直身機上的聚光燈
-![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
-
