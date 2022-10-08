@@ -32,4 +32,69 @@
 
 ## Demo
 + 主畫面
-![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/01.PNG)
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/主畫面.png)
+
+### 三個光源
+
++ 太陽光(定向光)
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/太陽光(定向光).png)
+
++ Djball(點光源)
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/Djball(點光源).png)
+
++ 直身機上的聚光燈
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直身機上的聚光燈.png)
+
+### 控制
+
++ 關閉點光源(DJBall)
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/關閉點光源(DJBall).png)
+
++ 關閉直身機上的聚光燈
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/關閉直身機上的聚光燈.png)
+
++ 關閉太陽光(定光源)
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/關閉太陽光(定光源).png)
+
++ 改變太陽光顏色
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/改變太陽光顏色.png)
+
++ 改變太陽光位置
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/改變太陽光位置.png)
+
++ 太陽光改平行
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/太陽光改平行.png)
+
++ 改變地板材質
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/改變地板材質.png)
+
++ 改變直身機聚光燈方向
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/改變直身機聚光燈方向.png)
+
++ 改變直身機聚光燈指數
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/改變直身機聚光燈指數.png)
+
++ 改變直身機聚光燈顏色
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/改變直身機聚光燈顏色.png)
+
++ 改變直身機聚光燈截止角
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/改變直身機聚光燈截止角.png)
+
++ 改變直身機聚光燈強度
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/改變直身機聚光燈強度.png)
+
++ 直身機上的聚光燈
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
+
++ 直身機上的聚光燈
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
+
++ 直身機上的聚光燈
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
+
++ 直身機上的聚光燈
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
+
++ 直身機上的聚光燈
+![image](https://github.com/YiKaiWu1125/3D-helicopter/blob/main/picture/直升機.png)
+
